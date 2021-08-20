@@ -1,17 +1,27 @@
 <div align="center">
     <a href="https://github.com/mhdrofiq/mhdrofiq">
-        <img src="banner-ii.jpg" />
+        <img src="banner-ii.jpg">
     </a>
 </div>
+
+<h2 align="center">Hi, This is Rofiq!</h2>
 
 <!--
-**mhdrofiq/mhdrofiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">hmmm...</h2>
+<p align="center">
+  <a href="https://github.com/mhdrofiq"><img src="https://github-readme-stats.vercel.app/api?username=mhdrofiq&show_icons=true&theme=calm" alt="mhdrofiq's github stats"></a>
+</p>
+-->
 
-<div align="center">
-    <a href="https://github.com/mhdrofiq/mhdrofiq">
-        <img src="banner.jpg" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://twitter.com/wstriaa">Twitter</a> |
+  <a href="https://discordapp.com/users/381377559780130837/">Discord</a> |
+  <a href="https://www.linkedin.com/in/muhammad-rofiqurrahman-180b82216">LinkedIn</a>
+</p>
+
+<p align="center">🎓 Currently studying software engineering at UTM</p>
+
+<!--
 
 Here are some ideas to get you started:
 
