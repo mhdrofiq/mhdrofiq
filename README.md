@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+    <a href="https://github.com/mhdrofiq/mhdrofiq">
+        <img src="banner-ii.jpg" />
+    </a>
+</div>
 
 <!--
 **mhdrofiq/mhdrofiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
