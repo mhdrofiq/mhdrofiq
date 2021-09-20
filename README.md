@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/mhdrofiq/mhdrofiq">
-        <img src="banner-iii.jpg">
+        <img src="banner-iv.jpg">
     </a>
 </div>
 
