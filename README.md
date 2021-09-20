@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<h2 align="center">Hi, My Name is Rofiq!</h2>
+<h1 align="center">Hi, I'm Rofiq!</h1>
 
 <!--
 <h2 align="center">hmmm...</h2>
@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">🎓 Currently studying software engineering at UTM</p>
+<p align="center">Learning:<br><b>C++</b> - <b>Java</b> - <b>HTML</b> - <b>CSS</b> - <b>Javascript</b></p>
 
 <!--
 
