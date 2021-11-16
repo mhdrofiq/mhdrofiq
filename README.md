@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">🎓 Currently studying software engineering at UTM</p>
-<p align="center">Learning:<br><b>C++</b> / <b>Java</b> / <b>HTML</b> / <b>CSS</b> / <b>Javascript</b> / <b>PHP</b></p>
+<p align="center">Learning:<br><b>HTML</b> / <b>CSS</b> / <b>Javasccript</b> / <b>Java</b> / <b>PHP</b> / <b>C++</b></p>
 
 <!--
 
