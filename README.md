@@ -21,6 +21,7 @@
 
 <p align="center">🎓 Currently studying software engineering at UTM</p>
 <p align="center">Learning:<br><b>HTML</b> - <b>CSS</b> - <b>Javascript</b> - <b>Java</b> - <b>PHP</b> - <b>C++</b></p>
+<p align="center">Experienced in:<br>Full stack development with Laravel</p>
 
 <!--
 
