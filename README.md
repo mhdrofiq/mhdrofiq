@@ -1,8 +1,10 @@
+<!--
 <div align="center">
     <a href="https://github.com/mhdrofiq/mhdrofiq">
         <img src="banner-iii.jpg">
     </a>
 </div>
+-->
 
 <h1 align="center">Hi, I'm Rofiq!</h1>
 
