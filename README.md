@@ -6,7 +6,7 @@
 </div>
 -->
 
-<h1 align="center">Hello, I'm Rofiq!</h1>
+<h1 align="center">👋 Hello, I'm Rofiq!</h1>
 
 <!--
 <h2 align="center">hmmm...</h2>
