@@ -17,7 +17,6 @@
 
 <p align="center">
   <a href="https://twitter.com/wstriaa">Twitter</a> |
-  <a href="https://discordapp.com/users/381377559780130837/">Discord</a> |
   <a href="https://www.linkedin.com/in/muhammad-rofiqurrahman-180b82216">LinkedIn</a>
 </p>
 
