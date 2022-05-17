@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/muhammad-rofiqurrahman-180b82216">LinkedIn</a>
 </p>
 
-<p align="center">🎓 Currently studying software engineering at UTM</p>
+<p align="center">🎓 Studying software engineering at UTM</p>
 <p align="center">Currently learning:<br><b>HTML</b> - <b>CSS</b> - <b>Javascript</b> - <b>Java</b> - <b>PHP</b> - <b>C++</b> - <b>Dart</b></p>
 <p align="center">Experiences in:<br>Full stack development with Laravel</p>
 
