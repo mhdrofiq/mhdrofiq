@@ -6,7 +6,7 @@
 </div>
 -->
 
-<h1 align="center">Hello, I'm Rofiq!</h1>
+<h1 align="left">Hello, I'm Rofiq!</h1>
 
 <!--
 <h2 align="center">hmmm...</h2>
@@ -15,15 +15,17 @@
 </p>
 -->
 
-<p align="center">
-  <a href="https://twitter.com/wstriaa">Twitter</a> |
-  <a href="https://www.linkedin.com/in/muhammad-rofiqurrahman-180b82216">LinkedIn</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-rofiqurrahman-180b82216">LinkedIn Profile</a>
 </p>
 
-<p align="center">🎓 Studying software engineering at UTM</p>
-<p align="center">Currently learning:<br><b>HTML</b> - <b>CSS</b> - <b>Javascript</b> - <b>Java</b> - <b>PHP</b> - <b>C++</b> - <b>Dart</b></p>
-<p align="center">Experiences in:<br>Full stack development with Laravel</p>
+<p align="left"><i>Currently studying software engineering at UTM 🎓</i></p>
 
+<ul>
+<li><b>I have experience in -- </b> Full stack development with Laravel for coursework</li>
+<li><b>I'm currently working on -- </b> Final year project web application using the MERN stack</li>
+</ul>
+<p align="left">Reach out to me via email! 📫</p>
 <!--
 
 Here are some ideas to get you started:
