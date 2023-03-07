@@ -22,7 +22,7 @@
 <p align="left"><i>Currently studying software engineering at Univeristi Teknologi Malaysia 🎓</i></p>
 
 <ul>
-<li><b>I have experience in -- </b> Full stack development with Laravel for coursework</li>
+<li><b>I have experience in -- </b> Full stack development with Laravel, MySQL, Firebase, Bootstrap for coursework</li>
 <li><b>I'm currently working on -- </b> Final year project web application using the MERN stack</li>
 </ul>
 <p align="left">Reach out to me via email! 📫</p>
