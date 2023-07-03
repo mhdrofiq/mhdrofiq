@@ -14,6 +14,7 @@
   <a href="https://github.com/mhdrofiq"><img src="https://github-readme-stats.vercel.app/api?username=mhdrofiq&show_icons=true&theme=calm" alt="mhdrofiq's github stats"></a>
 </p>
 -->
+<p align="left">I am open to fresh graduate job opportunities and internships as a web developer or software engineer in Indonesia and Malaysia 💼</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-rofiqurrahman-180b82216">LinkedIn Profile</a>
@@ -22,8 +23,8 @@
 <p align="left"><i>Currently studying software engineering at Univeristi Teknologi Malaysia 🎓</i></p>
 
 <ul>
-<li><b>I have experience in -- </b> Full stack development with Laravel, MySQL, Firebase, Bootstrap for coursework</li>
-<li><b>I'm currently working on -- </b> Final year project web application using the MERN stack</li>
+<li><b>I have experience in -- </b> Full stack development with Laravel, MySQL, Firebase, Bootstrap for coursework. MERN stack development for my final year project.</li>
+<li><b>Check out some of my coursework and practice projects in my pinned repos</b></li>
 </ul>
 <p align="left">Reach out to me via email! 📫</p>
 <!--
